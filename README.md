@@ -32,4 +32,4 @@ My PhD was about recovering clean signals from noisy ones (image denoising and s
 Python · NumPy · Pandas · scikit-learn · TensorFlow/Keras · Hugging Face · OpenAI API · embeddings · RAG · OpenCV
 
 ### Links
-[Website](https://gulsher9931.github.io) · [Google Scholar](https://scholar.google.com/citations?user=OaFQukcAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/gs-baloch/) · [Leaveit2AI](https://leaveit2ai.com)
+[Website](https://gulsherbaloch.com) · [Google Scholar](https://scholar.google.com/citations?user=OaFQukcAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/gs-baloch/) · [Leaveit2AI](https://leaveit2ai.com)
